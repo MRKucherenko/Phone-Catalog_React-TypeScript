@@ -54,7 +54,7 @@ export const Footer = () => {
           <p className="small-text footer__back-to-top-text">Back to top</p>
           <img
             className="button--arrow"
-            src="public/icons/arrow_up.svg"
+            src="/public/icons/arrow_up.svg"
             alt="Arrow up"
           />
         </button>
